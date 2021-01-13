@@ -1,0 +1,16 @@
+@import 'colores';
+@import 'tipografias';
+
+.mitad1{
+    width: 50%;
+    background-color: $blanco;
+}
+.logo>img{
+    margin: 20px 0 0 20px;
+    width: 40%;
+}
+.vector>img{
+    width: 70%;
+    margin-left: 182px;
+    margin-top: 10px;
+}

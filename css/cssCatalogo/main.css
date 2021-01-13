@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+.iconoSalida {
+  color: #707070;
+}
+
+.tamanoNav {
+  font-size: 20px;
+}
+
+.contenedor {
+  margin: 50px 0 0 160px;
+}
+
+body {
+  background-color: #262626;
+}
+
+.esCartel {
+  color: #ffffff;
+  font-size: 60px;
+  font-family: "Lato", sans-serif;
+}
+
+.usuario {
+  width: 40%;
+  margin: 30px 0 0 0px;
+}
+
+.boton {
+  margin: 30px 0 0 0px;
+  background-color: #2680eb;
+  /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+
+.boton:hover {
+  background-color: #1e65bd;
+}
+
+.tabla {
+  width: 90%;
+  margin-top: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+A:link {
+  text-decoration: none;
+}
+
+A:hover {
+  color: black;
+  font-family: arial;
+  text-decoration: none;
+}
+
+A:visited {
+  color: black;
+  font-family: arial;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=main.css.map */

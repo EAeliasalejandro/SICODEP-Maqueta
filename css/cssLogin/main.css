@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap");
+.mitad1 {
+  width: 50%;
+  background-color: #ffffff;
+}
+
+.logo > img {
+  margin: 20px 0 0 20px;
+  width: 40%;
+}
+
+.vector > img {
+  width: 70%;
+  margin-left: 182px;
+  margin-top: 10px;
+}
+
+.mitad2 {
+  width: 50%;
+  background-color: #262626;
+}
+
+.mitad2 > h1 {
+  margin: 90px 0 0 140px;
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+}
+
+.mitad2 > h2 {
+  margin: 5px 0 0 140px;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.usuario {
+  margin: 128px 0 0 140px;
+  width: 500px;
+}
+
+.password {
+  margin: 60px 0 0 140px;
+  width: 500px;
+}
+
+.boton {
+  margin: 50px 0 0 300px;
+  background-color: #2680eb;
+  /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
+}
+
+.boton:hover {
+  background-color: #1e65bd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.login {
+  display: flex;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,37 @@
+@import 'colores';
+@import 'tipografias';
+
+.contenedor{
+    margin: 50px 0 0 160px;
+}
+body{
+    background-color: $negro;
+}
+.esCartel{
+    color: $blanco;
+    font-size: 60px;
+    font-family: $lato;
+}
+.usuario{
+    width: 40%;
+    margin: 30px 0 0 0px;
+}
+.boton {
+    margin: 30px 0 0 0px;
+    background-color: $azul; /* Green */
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: $roboto;
+    font-size: 15px;
+}
+.boton:hover {background-color: $azulBoton}
+
+.tabla{
+    width: 90%;
+    margin-top: 50px;
+}

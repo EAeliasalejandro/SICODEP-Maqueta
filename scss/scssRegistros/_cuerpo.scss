@@ -1,0 +1,15 @@
+@import 'colores';
+@import 'tipografias';
+
+.contenedor{
+    margin: 50px 0 0 160px;
+}
+body{
+    background-color: $negro;
+}
+.esCartel{
+    color: $blanco;
+    font-size: 60px;
+    font-family: $lato;
+}
+
